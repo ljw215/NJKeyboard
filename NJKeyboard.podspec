@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "NJKeyboard"
-s.version      = "0.0.2"
+s.version      = "0.0.3"
 s.summary      = "一行代码集成表情键盘, 简单实用"
 
 s.homepage     = "https://github.com/NJHu/NJKeyboard"
