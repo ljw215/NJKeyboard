@@ -2,15 +2,11 @@
 一行代码集成表情键盘
 
 
-import UIKit
+```objc
 
-class ViewController: UIViewController {
-    
-
-//一行代码一行代码一行代码一行代码一行代码一行代码    
+    /* 一行代码集成表情键盘创建的时候, 告知键盘targetTextView */
    private lazy var keyboard: LMJEmoticonKeyboard = LMJEmoticonKeyboard(targetTextView: self.textView)
-
-//一行代码一行代码一行代码一行代码一行代码
+    /* 一行代码集成表情键盘创建的时候, 告知键盘targetTextView */
 
     @IBOutlet weak var textView: LMJTextView!
     
@@ -21,15 +17,12 @@ class ViewController: UIViewController {
         
         textView.becomeFirstResponder()
         
-        /// 获得textview的表情纯文本
-      let stringAbsoult = textView.stringText
-        print(stringAbsoult)
-        
-        ///把服务器纯文本转化文富文本
-        let attrbstring = "123[炸鸡和啤酒], [发红包]"
-        let atrbs = LMJEmoticonTool.sharedTool.emoticonAttributedString(attrbstring, font: UIFont.systemFontOfSize(16))
-        print(atrbs)
-        
     }
-
-}
+ ```
+    
+    
+    
+  ![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.17.png)
+    ![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.19.png)
+      ![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.21.png)
+        ![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.23.png)
