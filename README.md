@@ -9,6 +9,7 @@ class ViewController: UIViewController {
 
 //一行代码一行代码一行代码一行代码一行代码一行代码    
    private lazy var keyboard: LMJEmoticonKeyboard = LMJEmoticonKeyboard(targetTextView: self.textView)
+
 //一行代码一行代码一行代码一行代码一行代码
 
     @IBOutlet weak var textView: LMJTextView!
