@@ -6,11 +6,10 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    ///一行代码集成表情键盘==========创建的时候告知键盘targetTextView==========
-    
+
+//一行代码一行代码一行代码一行代码一行代码一行代码    
    private lazy var keyboard: LMJEmoticonKeyboard = LMJEmoticonKeyboard(targetTextView: self.textView)
-    
-    ///=======================================================
+//一行代码一行代码一行代码一行代码一行代码
 
     @IBOutlet weak var textView: LMJTextView!
     
