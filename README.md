@@ -22,10 +22,10 @@
     
     
     
-  ![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.17.png)
+![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.17.png)
 
-    ![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.19.png)
+![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.19.png)
     
-      ![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.21.png)
+![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.21.png)
       
-        ![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.23.png)
+![](./images/Simulator Screen Shot 2016年9月7日 下午11.21.23.png)
